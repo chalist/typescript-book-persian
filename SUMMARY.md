@@ -1,8 +1,8 @@
 # Table of contents
 
-* [README](README.md)
-* [Getting Started](docs/getting-started.md)
-  * [Why TypeScript](docs/why-typescript.md)
+* [دستورالعمل](README.md)
+* [شروع به کار](docs/getting-started.md)
+  * [چرا تایپ‌اسکریپت](docs/why-typescript.md)
 * [JavaScript](docs/javascript/recap.md)
   * [Equality](docs/javascript/equality.md)
   * [References](docs/javascript/references.md)

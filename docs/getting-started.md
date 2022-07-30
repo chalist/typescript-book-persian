@@ -1,27 +1,28 @@
-* [Getting Started with TypeScript](#getting-started-with-typescript)
-* [TypeScript Version](#typescript-version)
+# شروع به کار
 
-# Getting Started With TypeScript
+* [شروع به کار با تایپ‌اسکریپت](getting-started.md#getting-started-with-typescript)
+* [نسخه تایپ‌اکریپت](getting-started.md#typescript-version)
 
-TypeScript compiles into JavaScript. JavaScript is what you are actually going to execute (either in the browser or on the server). So you are going to need the following:
+## شروع به کار با تایپ‌اسکریپت
 
-* TypeScript compiler (OSS available [in source](https://github.com/Microsoft/TypeScript/) and on [NPM](https://www.npmjs.com/package/typescript))
-* A TypeScript editor (you can use notepad if you want but I use [vscode 🌹](https://code.visualstudio.com/) with an [extension I wrote](https://marketplace.visualstudio.com/items?itemName=basarat.god). Also [lots of other IDES support it as well]( https://github.com/Microsoft/TypeScript/wiki/TypeScript-Editor-Support))
+تایپ‌اسکریت کامپایل میشه به جاوااسکریپت. جاوااسکریپت چیزی که شما در واقع اجراش میکنید (چه توی مرورگر یا چه توی سرور). بنابراین شما لازمه که موارد رو داشته باشید باشید:
 
+* کامپایلر تایپ‌اسکریپت (نسخه [متن باز اینجا](https://github.com/Microsoft/TypeScript/) و روی [NPM](https://www.npmjs.com/package/typescript))
+* یه ادیتور تایپ‌اسکریپت (شما میتونید از نوت‌پد استفاده کنید اگه میخواید اما من از [vscode](https://code.visualstudio.com/) [🌹](https://code.visualstudio.com/) با [اکستنشنی که نوشتم](https://marketplace.visualstudio.com/items?itemName=basarat.god) استفاده میکنم. همچنین میتونید از خیلی از IDEهای دیگه که هستن استفاده کنید)
 
-## TypeScript Version
+### نسخه تایپ‌اسکریپت
 
-Instead of using the *stable* TypeScript compiler we will be presenting a lot of new stuff in this book that may not be associated with a version number yet. I generally recommend people to use the nightly version because **the compiler test suite only catches more bugs over time**.
+به جای استفاده از نسخه پایدار کامپایلر تایپ‌اسکریت ما توی این کتاب قراره کلی چیز جدید نشونتون بدیم که ممکنه توی اون نسخه‌ای که استفاده میکنید در دسترس نباشه. من به صورت کلی توصیه میکنم مردم از نسخه ناپایدار (Nightly Version) استفاده کنند **چون کامپایلر در طول کار تست میشه و مشکلات بیشتر ازش پیدا میشه.**
 
-You can install it on the command line as
+برای نصبش میتونید از دستور زیر استفاده کنید:
 
 ```
 npm install -g typescript@next
 ```
 
-And now the command line `tsc` will be the latest and greatest. Various IDEs support it too, e.g.
+و حالا دستور `tsc` آخرین نسخه و بهترینه. ویرایشگرهای زیادی هم پشتیبانیش میکنن.
 
-* You can ask vscode to use this version by creating `.vscode/settings.json` with the following contents:
+* شما میتونید در فایل `vscode/settings.json` از vscode بخواید که از این نسخه استفاده کنه:
 
 ```json
 {
@@ -29,12 +30,12 @@ And now the command line `tsc` will be the latest and greatest. Various IDEs sup
 }
 ```
 
-## Getting the Source Code
-The source for this book is available in the books github repository https://github.com/basarat/typescript-book/tree/master/code most of the code samples can be copied into vscode and you can play with them as is. For code samples that need additional setup (e.g. npm modules), we will link you to the code sample before presenting the code. e.g.
+### دریافت سورس کد
+
+کدهای نوشته شده در این کتاب در گیت‌هاب به نشانی https://github.com/basarat/typescript-book/tree/master/code در دسترسه و بیشتر کدها رو شما میتونی توی ویرایشگرتون کپی کنید و باهاشون بازی کنید. برای کدهای نمونه  که نیاز به تنظیمات اضافه دارند (مثل node modules)، ما لینک کد رو برای شما قرار میدیم قبل از کد. به این صورت:
 
 `this/will/be/the/link/to/the/code.ts`
+
 ```ts
 // This will be the code under discussion
 ```
-
-With a dev setup out of the way let's jump into TypeScript syntax.

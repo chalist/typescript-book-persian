@@ -1,4 +1,4 @@
-# README
+# دستورالعمل
 
 ### بررسی تفضیلی تایپ‌اکسریپت
 
@@ -10,37 +10,36 @@
 * احتمالا بهترین کتاب تایپ‌اکسریپت اینه. کار خوبیه ([لینک](https://twitter.com/thelondonjs/status/756419561570852864))
 * نمونه‌ها و توضیحات چقدر دقیق و تمیز هستند. عشق کنید! ([لینک](https://twitter.com/joe\_mighty/status/758290957280346112))
 * For the low, low price of free, you get pages of pure awesomeness. Chock full of source code examples and clear, concise explanations, TypeScript Deep Dive will help you learn TypeScript development. ([لینک](https://www.nativescript.org/blog/details/free-book-typescript-deep-dive))
-* Just a big thank you! **Best TypeScript 2 detailed explanation!** ([لینک](https://www.gitbook.com/book/basarat/typescript/discussions/38))
-* This gitbook got my project going pronto. Fluent easy read 5 stars. ([لینک](https://twitter.com/thebabellion/status/779888195559235584))
-* I recommend the online #typescript book by @basarat you'll love it.([لینک](https://twitter.com/markpieszak/status/788099306590969860))
+* یه تشکر بزرگ ازت. بهترین کتاب تایپ اسکریپت با جزئیات ([لینک](https://www.gitbook.com/book/basarat/typescript/discussions/38))
+* این کتاب پروژه من رو پیش برد. با متن سلیس و ۵ ستاره ([لینک](https://twitter.com/thebabellion/status/779888195559235584))
+* من کتاب آنلاین تایپ‌اسکریپت نوشته @basarat رو توصیه میکنم. عاشقش میشید([لینک](https://twitter.com/markpieszak/status/788099306590969860))
 * I've always found this by @basarat really helpful. ([لینک](https://twitter.com/Brocco/status/789887640656945152))
-* We must highlight TypeScript Deep Dive, an open source book.([لینک](https://www.siliconrepublic.com/enterprise/typescript-programming-javascript))
-* Great online resource for learning. ([لینک](https://twitter.com/rdfuhr/status/790193307708076035))
-* Thank you for putting this book together, and for all your hard work within the TypeScript community. ([لینک](https://github.com/basarat/typescript-book/pull/183#issuecomment-257799713))
-* TypeScript Deep Dive is one of the best technical texts I've read in a while. ([لینک](https://twitter.com/borekb/status/794287092272599040))
-* Thanks @basarat for the TypeScript Deep Dive Book. Help me a lot with my first TypeScript project. ([لینک](https://twitter.com/betolinck/status/797901548562960384))
-* Thanks to @basarat for this great #typescript learning resource. ([لینک](https://twitter.com/markuse1501/status/799116176815230976))
-* Guyz excellent book on Typescript(@typescriptlang) by @basarat ([لینک](https://twitter.com/deeinlove/status/813245965507260417))
-* Leaning on the legendary @basarat's "TypeScript Deep Dive" book heavily at the moment ([لینک](https://twitter.com/sitapati/status/814379404956532737))
+* ما باید  بررسی تفضیلی تایپ‌اسکریپت رو برجسته کنیم، یه کتاب متن‌باز([لینک](https://www.siliconrepublic.com/enterprise/typescript-programming-javascript))
+* یه منبع فوق‌العاده‌ی آنلاین برای یادگیری ([لینک](https://twitter.com/rdfuhr/status/790193307708076035))
+* ممنون برای جمع‌آوری این کتاب, و برای تمام تلاش‌های سختت برای جمعه تایپ‌اسکریپت ([لینک](https://github.com/basarat/typescript-book/pull/183#issuecomment-257799713))
+* بررسی تفضیلی تایپ‌اسکریپت یکی از بهترین متون تخصصیه که تا به حال خوندم ([لینک](https://twitter.com/borekb/status/794287092272599040))
+* ممنون از @basarat برای بررسی تفضیلی تایپ‌اسکریپت. این کتاب در اولین پروژه تایپ‌اسکریتم به من خیلی کمک کرد ([لینک](https://twitter.com/betolinck/status/797901548562960384))
+* ممنون از @basarat برای این آموزش#تایپ\_اسکریپت ([لینک](https://twitter.com/markuse1501/status/799116176815230976))
+* بچه‌ها یه کتاب فوق‌الهاده برای تایپ‌اسکریپت(@typescriptlang) توسط @basarat ([لینک](https://twitter.com/deeinlove/status/813245965507260417))
+* یادگیری با کتاب فوق‌العاده @basarat "بررسی تفضیلی تایپ‌اسکریپت" book heavily at the moment ([لینک](https://twitter.com/sitapati/status/814379404956532737))
 * numTimesPointedPeopleToBasaratsTypeScriptBook++; ([لینک](https://twitter.com/brocco/status/814227741696462848))
-* A book not only for typescript, a good one for deeper JavaScript knowledge as well. [لینک](https://www.gitbook.com/book/basarat/typescript/discussions/59)
-* In my new job, we're using @typescriptlang, which I am new to. This is insanely helpful huge thanks, @basarat! [لینک](https://twitter.com/netchkin/status/855339390566096896)
-* Thank you for writing TypeScript Deep Dive. I have learned so much. [لینک](https://twitter.com/buctwbzs/status/857198618704355328?refsrc=email\&s=11)
-* Loving @basarat's @typescriptlang online book basarat.gitbooks.io/typescript/# loaded with great recipes! [لینک](https://twitter.com/ericliprandi/status/857608837309677568)
-* Microsoft doc is great already, but if want to "dig deeper" into TypeScript I find this book of great value [لینک](https://twitter.com/caludio/status/876729910550831104)
-* Thanks, this is a great book 🤓🤓 [لینک](https://twitter.com/jjwonmin/status/885666375548547073)
-* Deep dive to typescript is awesome in so many levels. i find it very insightful. Thanks [لینک](https://twitter.com/orenmizr/status/891083492787970053)
-* @basarat's intro to @typescriptlang is still one of the best going (if not THE best) [لینک](https://twitter.com/stevealee/status/953953255968698368)
-*
-* This is sweet! So many #typescript goodies! [لینک](https://twitter.com/pauliescanlon/status/989898852474998784)
+* یه کتاب نه فقط برای تایپ‌اسکریپت، بلکه برای یادگیری عمیق جاوااسکریپت [لینک](https://www.gitbook.com/book/basarat/typescript/discussions/59)
+* توی کار من، ما از تایپ‌اسکریپت استفاده میکنیم، که من توش تازه کارم. این کتاب به صورت دیوانه‌واری مفیده. یه تشکر گنده از @basarat! [لینک](https://twitter.com/netchkin/status/855339390566096896)
+* ممنون برای نوشتن بررسی تفضیلی تایپ‌اسکریپت. خیلی ازش یاد گرفتم [لینک](https://twitter.com/buctwbzs/status/857198618704355328?refsrc=email\&s=11)
+* عاشق کتاب تایپ‌اسکریپت @basarat هستم  [لینک](https://twitter.com/ericliprandi/status/857608837309677568)
+* داکیومنت مایکروسافت عالیه، اما اگه میخواید یه شیرجه عمیق بزنید توی تایپ‌اسکریپت این کتاب ارزشمند رو پیدا کردم [لینک](https://twitter.com/caludio/status/876729910550831104)
+* مچکرم، این کتاب خیلی خفنه 🤓🤓 [لینک](https://twitter.com/jjwonmin/status/885666375548547073)
+* بررسی تفضیلی تایپ‌اسکریپت از خیلی جهات فوق‌العاده‌ست.  خیلی غیرطبیعی خوبه. مچکرم [لینک](https://twitter.com/orenmizr/status/891083492787970053)
+* مقدمه  @basarat در مورد تایپ‌اسکریپت هنوز یکی از بهترین‌هاست (اگه بهترین نباشه) [لینک](https://twitter.com/stevealee/status/953953255968698368)
+* خیلی خوبه. خیلی خیلی دلچسبه #typescript [لینک](https://twitter.com/pauliescanlon/status/989898852474998784)
 
 ### Get Started
 
-If you are here to read the book online [get started](https://basarat.gitbook.io/typescript/getting-started).
+اگه اینجایی که این کتاب رو بخونی، [از اینجا شروع کن](docs/getting-started.md).
 
-### Translations
+### ترجمه‌ها
 
-Book is completely free so you can copy paste whatever you want without requiring permission. If you have a translation you want me to link here. [Send a PR](https://github.com/basarat/typescript-book/edit/master/README.md).
+کتاب کاملا رایگانه. پس شما میتونید هرچی رو که دلتون میخواد بدون نیاز به گرفتن اجازه کپی پیست کنید. اگه شما یه ترجمه از کتاب رو دارید و میخواید اینجا لینک بشه، یه [پول‌ریکوئست](https://github.com/basarat/typescript-book/edit/master/README.md) بفرستید.
 
 * [Filipino](https://github.com/themarshann/typescript-book-fil)
 * [Italian](https://github.com/TizioFittizio/typescript-book)
@@ -53,6 +52,7 @@ Book is completely free so you can copy paste whatever you want without requirin
 * [French](https://github.com/HachemiH/typescript-book)
 * [Polish](https://github.com/mbiesiad/typescript-book/tree/pl\_PL)
 * [Thai](https://github.com/futurouz/typescript-book)
+* [Persian](./#brrsy-tfdhyly-tayp-aksrypt)
 
 ### Other Options
 
